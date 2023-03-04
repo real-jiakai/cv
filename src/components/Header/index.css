@@ -1,0 +1,11 @@
+.lang-btn {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+  color: #333;
+  cursor: pointer;
+}

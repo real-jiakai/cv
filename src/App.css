@@ -56,31 +56,3 @@ body {
   padding: 0;
   text-align: center;
 }
-
-
-
-.avatar {
-  width: 100%;
-  max-width: 200px;
-  margin: 0 auto;
-  border-radius: 50%;
-  overflow: hidden;
-}
-
-.avatar img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.lang-btn {
-  display: block;
-  margin: 0 auto;
-  margin-bottom: 10px;
-  padding: 5px 10px;
-  border: none;
-  border-radius: 5px;
-  background-color: #f1f1f1;
-  color: #333;
-  cursor: pointer;
-}

@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
+import "./index.css";
 
 export default class Header extends Component {
     render() {
@@ -10,6 +11,6 @@ export default class Header extends Component {
                     {language === "en" ? "中文" : "English"}
                 </button>
             </div>
-        )
+        );
     }
 }

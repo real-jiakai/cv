@@ -40,7 +40,7 @@ function App() {
     },
     {
       type: "avatar",
-      src: "/images/profile.jpg",
+      src: "/images/profile.webp",
       alt: "Avatar",
     },
     {
